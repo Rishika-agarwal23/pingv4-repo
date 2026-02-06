@@ -8,7 +8,7 @@ from pingv4 import AbstractBot, ConnectFourBoard
 class Bot(AbstractBot):
   """
   This will be your Connect4 bot.
-  DO NOT CHANGE THE CLASS NAME 'Bot'.
+  CHANGE THE CLASS NAME TO your snu net id.
   """
   
   @property
